@@ -6,9 +6,10 @@ namespace PreWorkCodeChallenges
     {
         static void Main(string[] args)
         {
-            // int[] someArray = new int[] { 1,2,3 };
+            int[] someArray = new int[] { 8,10,14 };
             // numberGame();
-            leapYearCalc();
+            // leapYearCalc();
+            perfectSequence(someArray); 
         }
         static void numberGame()
         {
@@ -50,6 +51,25 @@ namespace PreWorkCodeChallenges
             else
             {
                 Console.WriteLine("Oooops, that's not a leap year!");
+            }
+        }
+        static void perfectSequence(int[] someArray)
+        {
+            int sum = 0, prod = 1;
+
+            foreach (int value in someArray)
+            {
+                sum += value;
+                prod += value;
+            }
+
+            if(sum == prod)
+            {
+                Console.WriteLine("Heck yeah");
+            }
+            else
+            {
+                Console.WriteLine("Heck no..");
             }
         }
     }
