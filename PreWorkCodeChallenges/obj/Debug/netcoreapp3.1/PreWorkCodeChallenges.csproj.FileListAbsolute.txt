@@ -1,0 +1,13 @@
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.csprojAssemblyReference.cache
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.AssemblyInfoInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.AssemblyInfo.cs
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.exe
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.deps.json
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.runtimeconfig.json
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.runtimeconfig.dev.json
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.dll
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\bin\Debug\netcoreapp3.1\PreWorkCodeChallenges.pdb
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.dll
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.pdb
+C:\Users\zanyg\Documents\codefellows\401\prework-codechallenges\PreWorkCodeChallenges\obj\Debug\netcoreapp3.1\PreWorkCodeChallenges.genruntimeconfig.cache
