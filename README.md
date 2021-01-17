@@ -3,7 +3,7 @@
 ## Problem #1: Array Max Result
 - **Problem Domain**: Given an array, select a number that exists between 1-10, and output the total score. 
 - You should create a method that takes in both an array of integers and the integer the user selected. Output the array to the console, ask the user to select a number from these 5. After selected, output "score" of the number chosen.
-- ![ArrayMax](/assets/preworkcc1.png)
+- ![ArrayMax](/assets/prework-cc1.png)
 
 ## Problem #2: Leap Year Calculator 
 - **Problem Domain**: Given a year, report if it is or is not a leap year.
