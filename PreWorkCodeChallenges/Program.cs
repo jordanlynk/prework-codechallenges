@@ -6,9 +6,9 @@ namespace PreWorkCodeChallenges
     {
         static void Main(string[] args)
         {
-            int[] someArray = new int[] { 1,2,3 };
-            numberGame();
-
+            // int[] someArray = new int[] { 1,2,3 };
+            // numberGame();
+            leapYearCalc();
         }
         static void numberGame()
         {
@@ -36,6 +36,21 @@ namespace PreWorkCodeChallenges
             }
             Console.WriteLine("The number you selected scored: {0}", userChoice * score);
             Console.ReadLine();
+        }
+        static void leapYearCalc()
+        {
+            Console.WriteLine("Please enter in a year, perhaps your favorite?");
+
+            int userInputedYear = int.Parse(Console.ReadLine());
+
+            if (userInputedYear % 4 == 0 && (userInputedYear % 100 != 0 || userInputedYear % 400 == 0))
+            {
+                Console.WriteLine("That is indeed a Leap Year!!");
+            }
+            else
+            {
+                Console.WriteLine("Oooops, that's not a leap year!");
+            }
         }
     }
 }
